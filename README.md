@@ -14,30 +14,40 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/).
 
-### Solution challenge
+Solution challenge - ostateczny projekt “MatchUp”
 
-#### Wymagania:
-* Apka do wellbeingu
-* Medytacja/Mindfullness
-* Oficjalny dokument np WHO, UN - rekomendację 
-* Ćwiczenia
-* Planner/notatnik albo integracja 
-* Kalendarz
-* Manifestacja/afirmacja
+Wymagania:
+* Zaciąganie zasobów o koncie użytkownika na Githubie
+* Zaciąganie informacji o projektach
+* Sugerowanie użytkowników do projektów 
 
-#### Role:
+Dodatkowe:
+* Zaciąganie informacji o issues
+* Integracja z logowaniem do Githuba
+
+
+Milestone 1: Aplikacja wyświetla dane jednego użytkownika.
+
+Milestone 2: Aplikacja pokazuje % dopasowania do jednego projektu
+
+Milestone 3: Aplikacja posiada dużo projektów (~10000) i wyświetla te z największym dopasowaniem 
+
+Role:
 * Maciej - Cloud, dev
 * Magdalena - dev
-* Paweł - dev
-* Ignacy - Product Owner, Design, dev
+* Paweł - Product Owner, dev
+* Ignacy -  Design, dev
 
-#### Zadania:
+Zadania:
 * Wstępna architektura aplikacji/mockupy
     * Ilość screenów
     * Podstrony
     * Szata graficzna
-* Flutter flow - research 
-* Repozytorium 
+* Kanban board - Maciej
+* Podstawowy widget  do wyświetlania - Ignacy
+* Pierwsze strzały do API - Paweł 
+* Ogarnięcie Cloud - Maciej
 
 Spotkania:
 Ogólnie to w poniedziałek wieczorem
+

@@ -14,6 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/).
 
+To run the project, preferably use MacOS environment and run debugging in VSCode. 
+
+### Polish stuff
+
 Solution challenge - ostateczny projekt “MatchUp”
 
 Wymagania:
@@ -24,30 +28,3 @@ Wymagania:
 Dodatkowe:
 * Zaciąganie informacji o issues
 * Integracja z logowaniem do Githuba
-
-
-Milestone 1: Aplikacja wyświetla dane jednego użytkownika.
-
-Milestone 2: Aplikacja pokazuje % dopasowania do jednego projektu
-
-Milestone 3: Aplikacja posiada dużo projektów (~10000) i wyświetla te z największym dopasowaniem 
-
-Role:
-* Maciej - Cloud, dev
-* Magdalena - dev
-* Paweł - Product Owner, dev
-* Ignacy -  Design, dev
-
-Zadania:
-* Wstępna architektura aplikacji/mockupy
-    * Ilość screenów
-    * Podstrony
-    * Szata graficzna
-* Kanban board - Maciej
-* Podstawowy widget  do wyświetlania - Ignacy
-* Pierwsze strzały do API - Paweł 
-* Ogarnięcie Cloud - Maciej
-
-Spotkania:
-Ogólnie to w poniedziałek wieczorem
-
